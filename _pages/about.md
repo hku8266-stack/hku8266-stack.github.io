@@ -19,40 +19,36 @@ redirect_from:
 
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+吴晴雯
+上海交通大学
 
+
+我是上海交通大学日语专业大三学生，始终以严谨的态度对待专业学习，扎实掌握日语语言基础与文化知识，具备较强的日语综合应用能力。在校期间，系统学习日语精读、泛读、听力、口语、写作、翻译等核心课程，成绩优异，始终保持专业前列，注重培养自身的跨文化沟通能力和语言实践能力。
+
+课余时间积极参与各类语言实践、志愿服务和校园活动，不断提升自身的综合素养，锻炼沟通协调与团队协作能力，积累了丰富的实践经验。性格开朗沉稳，认真负责，善于倾听与配合，具备较强的学习能力和适应能力，愿意主动尝试新事物，致力于在日语相关领域不断深耕，为未来的职业发展奠定坚实基础。
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- *2024.09*: &nbsp;🎉🎉 荣获上海交通大学“校级三好学生”称号，表彰在专业学习与校园实践中的突出表现。
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- *2024.06*: &nbsp;🎉🎉 顺利通过日语能力测试（N1），取得优异成绩，夯实日语语言应用基础。
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- *2023.12*: &nbsp;🎉🎉 获得上海交通大学“日语专业奖学金”，肯定专业学习成果。
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# 📚 专业学习
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+核心课程（成绩优异，GPA 3.8/4.0）：日语精读、日语泛读、日语听力、日语口语、日语写作、日语翻译、日本文学、日本文化概论、日本历史、跨文化交际、基础英语等。
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+语言能力：
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 日语：熟练掌握，N1水平，具备优秀的听说读写译能力，能流畅进行日常交流、商务沟通及文献阅读与翻译。
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 英语：CET-6水平，具备良好的英语阅读与沟通能力，能辅助完成双语相关工作。
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 普通话：二级甲等，表达流畅，沟通清晰。
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎯 实践经历
+
+2024.07 - 2024.08[日语翻译实习]
+
+**某中日合资企业 翻译部实习生**
